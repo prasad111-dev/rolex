@@ -4,7 +4,7 @@ import speech_recognition as sr
 import pyttsx3
 
 # ✅ Your API Key (keep private)
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "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"
 
 # 🚀 Query OpenRouter AI
 def ask_openrouter(question):
